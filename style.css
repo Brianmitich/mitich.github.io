@@ -34,7 +34,7 @@ body{
     border-radius: 30px;
     font-size: 16px;
     flex: 1;
-    margin-right: 18px;
+    margin-right: 10px;
 }
 .search button{
     color: rgb(13, 56, 13);
@@ -45,6 +45,7 @@ body{
     outline: none;
     background: #ebfffe;
     cursor: pointer;
+    margin-right: -12;
 }
 .search button img{
     width: 30px;
