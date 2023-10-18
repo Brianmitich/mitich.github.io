@@ -46,6 +46,7 @@ body{
     background: #ebfffe;
     cursor: pointer;
     margin-right: -12;
+    display: none;
 }
 .search button img{
     width: 30px;
