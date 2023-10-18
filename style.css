@@ -29,7 +29,6 @@ body{
     outline: none;
     background: #ebfffe;
     color: green;
-    width: 300px;
 
     padding: 10px 25px;
     border-radius: 30px;
@@ -46,7 +45,6 @@ body{
     outline: none;
     background: #ebfffe;
     cursor: pointer;
-    margin-right: -12;
 }
 .search button img{
     width: 30px;
