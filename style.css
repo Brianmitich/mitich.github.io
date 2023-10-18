@@ -29,6 +29,7 @@ body{
     outline: none;
     background: #ebfffe;
     color: green;
+    width: 300px;
 
     padding: 10px 25px;
     border-radius: 30px;
