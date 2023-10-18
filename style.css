@@ -38,15 +38,14 @@ body{
 }
 .search button{
     color: rgb(13, 56, 13);
-    width: 60px;
-    height: 60px;
+    width: 40px;
+    height: 40px;
     border-radius: 50%;
     border: none;
     outline: none;
     background: #ebfffe;
     cursor: pointer;
     margin-right: -12;
-    display: none;
 }
 .search button img{
     width: 30px;
